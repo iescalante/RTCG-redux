@@ -14,6 +14,7 @@ Two reducers are created and then transformed into slices (counter, authenticati
 ## Counter Slice
 - Increment, decrement, increase
 ![image](https://user-images.githubusercontent.com/61524356/137598761-fc1a220b-3fec-4417-a352-f008d7a7d7b4.png)
+
 -Toggle Counter
 ![image](https://user-images.githubusercontent.com/61524356/137598770-b0faf66b-875d-46b2-b9ed-6651d68fb3bc.png)
 
